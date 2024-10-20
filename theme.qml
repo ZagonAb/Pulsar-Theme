@@ -30,7 +30,6 @@ FocusScope {
         loops: Audio.Infinite
         autoPlay: true
         volume: 1.0
-        audioRole: Audio.MusicRole
     }
 
     ShaderEffect {
