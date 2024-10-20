@@ -25,7 +25,7 @@ FocusScope {
     property string lastFocusedView: "collections"
 
     Audio {
-        id: audioPlayer
+        id: backgroundMusic
         source: "assets/audio/background7.wav"
         loops: Audio.Infinite
         autoPlay: true
