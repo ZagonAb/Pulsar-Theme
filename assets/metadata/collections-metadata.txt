@@ -1,0 +1,1477 @@
+Short Name: archimedes
+System Name: Acorn Archimedes
+Release Year: 1987
+Description: The Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England. The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS.
+----------------------------------------
+Short Name: androidapps
+System Name: Android Apps
+Release Year: Various
+Description: View and use your favorite Android Apps.
+
+----------------------------------------
+Short Name: easyrpg
+System Name: EasyRPG
+Release Year: 2007
+Description: EasyRPG is a free, open source engine to create RPG games, aiming to be also compatible with all RPG Maker 2000 and RPG Maker 2003 games.  RPG Maker 2000/2003 games tend to have mechanics and visuals similar to 16-bit JRPGs, though custom scripts can be made by the creators to modify how the game feels and looks.
+----------------------------------------
+Short Name: ags
+System Name: Adventure Game Studio
+Release Year: 1997
+Description: Adventure Game Studio (AGS) is an open source development tool primarily used to create graphic adventure games. It is aimed at intermediate-level game designers, and combines an integrated development environment (IDE) with a scripting language based on the C programming language to process game logic.
+----------------------------------------
+Short Name: auto-huntingandfishing
+System Name: Hunting and Fishing
+Release Year: Various
+Description: View and play the Hunting and Fishing games across your entire library.
+
+----------------------------------------
+Short Name: atarijaguarcd
+System Name: Atari Jaguar CD
+Release Year: 1995
+Description: The Atari Jaguar CD is a fifth generation (1993–2005) CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation. It was released in September 1995 in North America at a retail price of $149.
+----------------------------------------
+Short Name: amiga600
+System Name: Amiga 600
+Release Year: 1985
+Description: The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities.
+----------------------------------------
+Short Name: arcade
+System Name: Arcade
+Release Year: Various
+Description: An arcade game or coin-op is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are video games, pinball machines, electro-mechanical games, redemption games or merchandisers.
+----------------------------------------
+Short Name: auto-at4players
+System Name: 4 Player
+Release Year: Various
+Description: View and play the 4 player games across your entire library.
+
+----------------------------------------
+Short Name: nds
+System Name: Nintendo DS
+Release Year: 2004
+Description: The Nintendo DS or simply, DS, is a 32-bit dual-screen handheld game console developed and released by Nintendo. The device went on sale in North America on November 21, 2004.
+----------------------------------------
+Short Name: fds
+System Name: Famicom Disk System
+Release Year: 1986
+Description: The Family Computer Disk System, sometimes shortened as the Famicom Disk System or simply the Disk System, and abbreviated as the FDS or FCD, is a peripheral for Nintendo's Family Computer home video game console, released in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for data storage.
+----------------------------------------
+Short Name: lutris
+System Name: Lutris
+Release Year: 2010
+Description: Lutris is a free and open source game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, released under the GNU General Public License.
+
+
+Lutris began as a piece of software called Oblivion Launcher, which was created in 2009 by Mathieu Comandon. He wanted an easier way to manage his games running on Linux, especially the ones that ran using Wine. Lutris began development on Launchpad, with the repository being created on May 5th, 2009. The first public release, 0.1, was on November 29th, 2009.[8] In 2010, development moved to GitHub.
+----------------------------------------
+Short Name: ps3
+System Name: PlayStation 3
+Release Year: 2006
+Description: The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2, and is part of the PlayStation brand of consoles.
+The console was first officially announced at E3 2005, and was released at the end of 2006. It was the first console to use Blu-ray Disc as its primary storage medium.
+----------------------------------------
+Short Name: mame
+System Name: MAME
+Release Year: 1997
+Description: MAME (formerly an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intention is to preserve gaming history by preventing vintage games from being lost or forgotten.
+
+The first public MAME release was by Nicola Salmoria on 5 February 1997. It now supports over 7,000 unique games and 10,000 actual ROM image sets, though not all of the games are playable. MESS, an emulator for many video game consoles and computer systems, based on the MAME core, was integrated into MAME in 2015.
+----------------------------------------
+Short Name: 3ds
+System Name: Nintendo 3DS
+Release Year: 2011
+Description: The Nintendo 3DS, abbreviated to 3DS, is a portable game console produced by Nintendo. It is capable of displaying stereoscopic 3D effects without the use of 3D glasses or additional accessories.
+----------------------------------------
+Short Name: spectravideo
+System Name: Spectravideo
+Release Year: 1983
+Description: Spectravideo International Limited (SVI) was an American computer manufacturer and software house. It was originally called SpectraVision, a company founded by Harry Fox in 1981.
+----------------------------------------
+Short Name: chailove
+System Name: ChaiLove Framework
+Release Year: 2017
+Description: ChaiLove is an awesome framework you can use to make 2D games in ChaiScript. It's free, open-source, and works on Windows, Mac OS X, Linux, Android, and ARM through libretro/RetroArch.
+----------------------------------------
+Short Name: vpinball
+System Name: Visual Pinball
+Release Year: 2000
+Description: Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. It includes a table editor as well as the simulator itself, and runs on Microsoft Windows.
+----------------------------------------
+Short Name: gamegear
+System Name: Game Gear
+Release Year: 1990
+Description: The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress.
+
+Though the Game Gear was rushed to market, its unique game library and price point gave it an edge over the Atari Lynx and TurboExpress. However, due to its short battery life, lack of original games, and weak support from Sega, the Game Gear was unable to surpass the Game Boy, selling 10.62 million units by March 1996. The Game Gear was discontinued on April 30, 1997. It was re-released as a budget system by Majesco Entertainment in 2000, under license from Sega.
+----------------------------------------
+Short Name: gx4000
+System Name: GX4000
+Release Year: 1990
+Description: The Amstrad GX4000, commonly known as the GX4000, is a third generation (1983-2003) video game console developed and distributed by Amstrad. It was released in September of 1990 in Europe at a retail price of £99.
+----------------------------------------
+Short Name: neogeo
+System Name: Neo Geo
+Release Year: 1990
+Description: The Advanced Entertainment System (AES), originally known just as the Neo Geo, is the first video game console in the family. The hardware features comparatively colorful 2D graphics.
+----------------------------------------
+Short Name: ti99
+System Name: TI-99/4
+Release Year: 1981
+Description: The TI-99/4 is a home computer released in late 1979 by Texas Instruments. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, it was the first 16-bit home computer.
+
+It includes a simplified internal design, a full-travel keyboard, improved graphics, and a unique expansion system. At half the price of the original model, sales picked up significantly. TI supported the 4A with peripherals, including a speech synthesizer and a "Peripheral Expansion System" box to contain hardware add-ons. TI released developer information and tools, but the insistence on remaining sole publisher continued to starve the platform of software.
+----------------------------------------
+Short Name: auto-adventure
+System Name: Adventure
+Release Year: Various
+Description: View and play the adventure games across your entire library.
+
+----------------------------------------
+Short Name: c64
+System Name: Commodore 64
+Release Year: 1982
+Description: The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units.
+----------------------------------------
+Short Name: tools
+System Name: Tools
+Release Year: Various
+Description: Programs, scripts and utilities to manage your set up.
+
+----------------------------------------
+Short Name: atari2600
+System Name: Atari 2600
+Release Year: 1977
+Description: The Atari Video Computer System (VCS), later named the Atari 2600, is a second generation (1976–1992) home video game console developed and distributed by Atari, Inc. It was released on September 11, 1977 in North America at a retail price of $199.
+----------------------------------------
+Short Name: sfc
+System Name: Super Famicom
+Release Year: 1990
+Description: The Super Famicom is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.
+
+----------------------------------------
+Short Name: doom
+System Name: Doom
+Release Year: 1993
+Description: Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell.
+----------------------------------------
+Short Name: symbian
+System Name: Symbian
+Release Year: 1997
+Description: Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd.
+----------------------------------------
+Short Name: gbch
+System Name: GBC Hacks
+Release Year: 1998
+Description: The Game Boy Color, (abbreviated as GBC) is a handheld game console manufactured by Nintendo, which was released on October 21, 1998 in Japan and was released in November of the same year in international markets. It is the successor of the Game Boy.
+----------------------------------------
+Short Name: snesmsu-1
+System Name: Super Disc System
+Release Year: Unreleased
+Description: The Super NES CD-ROM Systemv is an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES). The add-on built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.
+
+The SNES-CD platform was developed in a partnership between Nintendo and Sony. The platform was planned to be launched as an add-on for the standard SNES, as well as a hybrid console by Sony called the PlayStation.
+----------------------------------------
+Short Name: colors
+System Name: None
+Release Year: None
+Description: None
+
+----------------------------------------
+Short Name: now-playing
+System Name: Now Playing
+Release Year: Various
+Description: Play and complete the games on your backlog.
+
+----------------------------------------
+Short Name: thextech
+System Name: TheXTech
+Release Year: 2020
+Description: TheXTech is a free and open-source game engine for Mario-like platforming games. There is a complete and extended source code port of the Super Mario Bros.
+----------------------------------------
+Short Name: naomigd
+System Name: Naomi GD-ROM
+Release Year: 1998
+Description: The NAOMI (New Arcade Operation Machine Idea) is an arcade system released by Sega in 1998. It was designed as a successor to Sega Model 3 hardware, using a similar architecture to the Sega Dreamcast.
+
+The NAOMI was succeeded by the Sega Hikaru and Sega NAOMI 2 boards, though having out-lasted the NAOMI 2, Hikaru and Sega Aurora. The Sega Chihiro, or possibly even the Sega Lindbergh, could also be seen as successors.
+----------------------------------------
+Short Name: supracan
+System Name: Super A'can
+Release Year: 1995
+Description: The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo.
+----------------------------------------
+Short Name: mplayer
+System Name: Media Player
+Release Year: Various
+Description: Play the media in your collection.
+
+----------------------------------------
+Short Name: auto-shooter
+System Name: Shooter
+Release Year: Various
+Description: View and play the Shooter games across your entire library.
+
+----------------------------------------
+Short Name: gb
+System Name: Game Boy
+Release Year: 1989
+Description: The Game Boy is an 8-bit handheld video game console developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe in 1990.
+----------------------------------------
+Short Name: tic80
+System Name: TIC-80
+Release Year: 2017
+Description: TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game.
+----------------------------------------
+Short Name: cps2
+System Name: CPS-II
+Release Year: 1993
+Description: The CP System II (CPシステムII, shīpī shisutemu tsū) or CPS-2 is an arcade system board that Capcom first used in 1993 for Super Street Fighter II. It was the successor to their previous CP System and Capcom Power System Changer arcade hardware and was succeeded by the CP System III hardware in 1996, of which the CPS-2 would outlive by over four years.
+----------------------------------------
+Short Name: scv
+System Name: Super Cassette Vision
+Release Year: 1984
+Description: Epoch's original Cassette Vision was introduced in Japan by Epoch in 1981, which had steady sales and took over 70% of the Japanese home console market at the time, with around 400,000 units sold. However, the introduction of next-generation systems from Nintendo, Casio and Sega quickly pushed back the original Cassette Vision, leading Epoch to quickly develop a successor.
+----------------------------------------
+Short Name: wonderswancolor
+System Name: WonderSwan Color
+Release Year: 2000
+Description: The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai, and was the last piece of hardware Yokoi developed before his death in 1997.
+
+Released in 1999 in the fifth generation of video game consoles, the WonderSwan and its two later models, the WonderSwan Color and SwanCrystal were officially supported until being discontinued by Bandai in 2003. During its lifespan, no variation of the WonderSwan was released outside of Japan.
+----------------------------------------
+Short Name: megadrivejp
+System Name: Mega Drive
+Release Year: 1988
+Description: The Mega Drive is a 16-bit fourth-generation home video game console developed and sold by Sega. It's Sega's third console and the successor to the Master System.
+----------------------------------------
+Short Name: wonderswan
+System Name: WonderSwan
+Release Year: 1999
+Description: The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai, and was the last piece of hardware Yokoi developed before his death in 1997.
+
+Released in 1999 in the fifth generation of video game consoles, the WonderSwan and its two later models, the WonderSwan Color and SwanCrystal were officially supported until being discontinued by Bandai in 2003. During its lifespan, no variation of the WonderSwan was released outside of Japan.
+----------------------------------------
+Short Name: palm
+System Name: Palm
+Release Year: 1997
+Description: The PalmPilot Personal and PalmPilot Professional are the second generation of Palm PDA devices produced by Palm Inc (then a subsidiary of U.S.
+----------------------------------------
+Short Name: cdtv
+System Name: CDTV
+Release Year: 1991
+Description: The CDTV (an acronym for "Commodore Dynamic Total Vision", a backronym of an acronym for "Compact Disc Television", giving it a double meaning) is a multimedia platform developed by Commodore International and launched in March 1991. The CDTV was intended as a media appliance rather than a personal computer.
+----------------------------------------
+Short Name: amstradcpc
+System Name: Amstrad CPC
+Release Year: 1984
+Description: The Amstrad Colour Personal Computer, better known as the Amstrad CPC, is a series of 8-bit home computers designed by Amstrad. The first models were released in April 1984 in Europe at a retail price ranging from £199 to £299, depending on the package bought.
+----------------------------------------
+Short Name: xbox
+System Name: Xbox
+Release Year: 2001
+Description: Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively.
+
+The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.
+----------------------------------------
+Short Name: laserdisc
+System Name: LaserDisc Games
+Release Year: Various
+Description: LaserDisc arcade games use pre-recorded video, either in combination with overlaid sprites or simply as sections of video controllable by the player. The first major LaserDisc game was Sega's Astron Belt, released in 1983.
+----------------------------------------
+Short Name: pcarcade
+System Name: PC Arcade Games
+Release Year: Various
+Description: In the beginning of the 2000s arcade system manufacturers started to move away from custom board designs, and as part of this change many instead adapted the standard PC architecture. There were numerous such designs running Linux or Windows, for instance Sega Lindbergh, Namco System N2 and Taito Type X.
+----------------------------------------
+Short Name: snesmsu1
+System Name: Super Disc System
+Release Year: Unreleased
+Description: The Super NES CD-ROM Systemv is an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES). The add-on built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.
+
+The SNES-CD platform was developed in a partnership between Nintendo and Sony. The platform was planned to be launched as an add-on for the standard SNES, as well as a hybrid console by Sony called the PlayStation.
+----------------------------------------
+Short Name: flash
+System Name: Adobe Flash
+Release Year: 1996
+Description: Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of animations, rich web applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications.
+----------------------------------------
+Short Name: dreamcast
+System Name: Dreamcast
+Release Year: 1998
+Description: The Dreamcast is a home video game console released by Sega on November 27, 1998 in Japan, September 9, 1999 in North America, and October 14, 1999 in Europe. It was the first in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Nintendo's GameCube, and Microsoft's Xbox.
+----------------------------------------
+Short Name: auto-action
+System Name: Action
+Release Year: Various
+Description: View and play the action games across your entire library.
+
+----------------------------------------
+Short Name: sega32xna
+System Name: Sega 32X
+Release Year: 1994
+Description: The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Mega Drive/Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn.
+Unveiled by Sega at June 1994's Consumer Electronics Show, the 32X was presented as a low-cost option for consumers looking to play 32-bit games.
+----------------------------------------
+Short Name: msx
+System Name: MSX
+Release Year: 1983
+Description: MSX is a standardized home computer architecture, announced by Microsoft and ASCII Corporation on June 16, 1983. It was initially conceived by Microsoft as a product for the Eastern sector, and jointly marketed by Kazuhiko Nishi, then vice-president at Microsoft and director at ASCII Corporation.
+
+MSX systems were popular in Japan and several other countries. Sony was the primary manufacturer of MSX systems at the time of release, and throughout most of the products lifespan, producing more units than any other manufacturer. Eventually 5 million MSX-based units were sold in Japan alone. Despite Microsoft's involvement, few MSX-based machines were released in the United States.
+----------------------------------------
+Short Name: sufami
+System Name: SuFami Turbo
+Release Year: 1996
+Description: The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
+
+
+This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
+
+The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.
+----------------------------------------
+Short Name: st-v
+System Name: ST-V
+Release Year: 1994
+Description: ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system.
+----------------------------------------
+Short Name: pce-cd
+System Name: PC Engine CD-ROM²
+Release Year: 1988
+Description: The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards.
+It was later released as the TurboGrafx-CD in the United States in November 1989, with a remodeled interface unit in order to suit the different shape of the TurboGrafx-16 console.
+----------------------------------------
+Short Name: videopac
+System Name: Videopac
+Release Year: 1978
+Description: The Magnavox Odyssey 2 (stylized as Magnavox Odyssey²), also known as Philips Odyssey 2, is a second generation home video game console that was released in 1978. It was sold in Europe as the Philips Videopac G7000, in Brazil as the Philips Odyssey and in Japan as Odyssey2 (オデッセイ2 odessei2).
+----------------------------------------
+Short Name: atomiswave
+System Name: Atomiswave
+Release Year: 2003
+Description: The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's NAOMI system board (thus it's common to see the "Sega" logo on its boot up screen).
+----------------------------------------
+Short Name: crvision
+System Name: CreatiVision
+Release Year: 1982
+Description: The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982 during the Second generation of video game consoles. It was built by the Finnish company Salora.
+----------------------------------------
+Short Name: auto-lightgun
+System Name: Light Gun
+Release Year: Various
+Description: View and play the Light Gun games across your entire library.
+
+----------------------------------------
+Short Name: triforce
+System Name: Triforce Arcade
+Release Year: 2002
+Description: The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa.
+----------------------------------------
+Short Name: mario
+System Name: Super Mario
+Release Year: Various
+Description: View and play the Mario Games in your collection.
+
+----------------------------------------
+Short Name: megadrive-japan
+System Name: Mega Drive
+Release Year: 1988
+Description: The Mega Drive is a 16-bit fourth-generation home video game console developed and sold by Sega. It's Sega's third console and the successor to the Master System.
+----------------------------------------
+Short Name: zxnext
+System Name: ZX Spectrum Next
+Release Year: 2017
+Description: ZX Spectrum Next is an 8-bit home computer, initially released in 2017, which is compatible with software and hardware for the 1982 ZX Spectrum. It also has enhanced capabilities.
+----------------------------------------
+Short Name: colecovision
+System Name: ColecoVision
+Release Year: 1982
+Description: The ColecoVision is a second generation (1976–1992) home video game console developed and distributed by Coleco Industries. It was released in August 1982 in North America at a retail price of $175.
+----------------------------------------
+Short Name: music
+System Name: Music Player
+Release Year: Various
+Description: Listen to the music in your collection.
+
+----------------------------------------
+Short Name: megacd
+System Name: Mega CD
+Release Year: 1993
+Description: The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe.
+----------------------------------------
+Short Name: saturnjp
+System Name: Sega Saturn
+Release Year: 1994
+Description: The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. Part of the fifth generation of video game consoles, it was the successor to the successful Sega Genesis.
+----------------------------------------
+Short Name: n64dd
+System Name: 64DD
+Release Year: 1999
+Description: The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was originally announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was finally released only in Japan on December 1, 1999.
+----------------------------------------
+Short Name: fpinball
+System Name: Future Pinball
+Release Year: 2005
+Description: Future Pinball ("FP") is a freeware 3D pinball editing and gaming application for Microsoft Windows. It is similar to Visual Pinball ("VP") and other modern pinball simulation applications.
+----------------------------------------
+Short Name: oric
+System Name: Oric
+Release Year: 1982
+Description: Oric was the name used by UK-based Tangerine Computer Systems for a series of 6502-based home computers sold in the 1980s, primarily in Europe. With the success of the ZX Spectrum from Sinclair Research, Tangerine's backers suggested a home computer and Tangerine formed Oric Products International Ltd to develop the Oric-1.
+----------------------------------------
+Short Name: camplynx
+System Name: Camputers Lynx
+Release Year: 1983
+Description: The Lynx was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM.
+----------------------------------------
+Short Name: atarixe
+System Name: Atari XE
+Release Year: 1987
+Description: The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the Nintendo Entertainment System, Sega's Master System, and Atari's own Atari 7800.
+----------------------------------------
+Short Name: auto-retroachievements
+System Name: Retroachievements
+Release Year: Various
+Description: View and play the Retroachievements games across your entire library.
+
+----------------------------------------
+Short Name: auto-pinball
+System Name: Pinball
+Release Year: Various
+Description: View and play the Pinball games across your entire library.
+
+----------------------------------------
+Short Name: epic
+System Name: Epic Games Store
+Release Year: 2018
+Description: The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games. It launched in December 2018 as both a website and a standalone launcher, of which the latter is required to download and play games.
+----------------------------------------
+Short Name: pcenginecd
+System Name: PC Engine CD-ROM²
+Release Year: 1988
+Description: The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards.
+----------------------------------------
+Short Name: vgmplay
+System Name: Music Player
+Release Year: Various
+Description: Listen to the music in your collection.
+
+----------------------------------------
+Short Name: pcfx
+System Name: PC-FX
+Release Year: 1994
+Description: The PC-FX is a 32-bit home video game console developed by both NEC and Hudson Soft and released in Japan in 1994. Powered by an NEC V810 CPU and using CD-ROMs, the PC-FX was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s.
+----------------------------------------
+Short Name: quake
+System Name: Quake
+Release Year: 1996
+Description: Quake is a first-person shooter game developed by id Software and published by GT Interactive. The first game in the Quake series, it was originally released for MS-DOS, Microsoft Windows and Linux in 1996, followed by Mac OS and Sega Saturn in 1997 and Nintendo 64 in 1998.
+----------------------------------------
+Short Name: to8
+System Name: Thomson TO8
+Release Year: 1986
+Description: The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.
+----------------------------------------
+Short Name: apfm1000
+System Name: APF Imagination Machine
+Release Year: 1979
+Description: The APF Imagination Machine is a combination home video game console and computer system released by APF Electronics Inc. in late 1979.
+----------------------------------------
+Short Name: psp
+System Name: PlayStation Portable
+Release Year: 2004
+Description: The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on December 12, 2004, in North America on March 24, 2005, and in PAL regions on September 1, 2005, and is the first handheld installment in the PlayStation line of consoles.
+----------------------------------------
+Short Name: apple2gs
+System Name: Apple IIGS
+Release Year: 1986
+Description: The Apple IIGS is a personal computer released by Apple Computer on September 15, 1986 that's compatible with the Apple II series, but otherwise has capabilities comparable to the Atari ST, Commodore Amiga, and Macintosh. The "GS" in the name stands for "Graphics" and "Sound," referring to its enhanced multimedia hardware, especially its state of the art sound and music synthesis.
+----------------------------------------
+Short Name: stv
+System Name: ST-V
+Release Year: 1994
+Description: ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system.
+----------------------------------------
+Short Name: gamecom
+System Name: Game.com
+Release Year: 1997
+Description: The Game.com is a fifth-generation handheld game console released by Tiger Electronics in August 1997.
+The first version of the Game.com can be connected to a 14.4 kbit/s modem for Internet connectivity, hence its name referencing the top level domain .com.
+----------------------------------------
+Short Name: fmtowns
+System Name: FM Towns
+Release Year: 1989
+Description: The FM Towns (Japanese: エフエムタウンズ, Hepburn: Efu Emu Taunzu) is a Japanese personal computer built by Fujitsu from February 1989 to the summer of 1997. It started as a proprietary PC variant intended for multimedia applications and PC games, but later became more compatible with IBM PC compatibles.
+----------------------------------------
+Short Name: naomi
+System Name: Naomi
+Release Year: 1998
+Description: The NAOMI (New Arcade Operation Machine Idea) is an arcade system released by Sega in 1998. It was designed as a successor to Sega Model 3 hardware, using a similar architecture to the Sega Dreamcast.
+----------------------------------------
+Short Name: zx81
+System Name: ZX81
+Release Year: 1981
+Description: The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public.
+----------------------------------------
+Short Name: apps
+System Name: Google Android
+Release Year: 2008
+Description: Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance, though its most widely used version is primarily developed by Google.
+----------------------------------------
+Short Name: pc
+System Name: IBM PC
+Release Year: 1981
+Description: The IBM Personal Computer (model 5150, commonly known as the IBM PC) is the first microcomputer released in the IBM PC model line and the basis for the IBM PC compatible de facto standard. Released on August 12, 1981, it was created by a team of engineers and designers directed by Don Estridge in Boca Raton, Florida.
+----------------------------------------
+Short Name: msx1
+System Name: MSX 1
+Release Year: 1983
+Description: MSX is a standardized home computer architecture, announced by Microsoft and ASCII Corporation on June 16, 1983. It was initially conceived by Microsoft as a product for the Eastern sector, and jointly marketed by Kazuhiko Nishi, then vice-president at Microsoft and director at ASCII Corporation.
+----------------------------------------
+Short Name: custom-collections
+System Name: Custom Collections
+Release Year: Various
+Description: Organize your games into custom collections.
+----------------------------------------
+Short Name: amiga
+System Name: Amiga
+Release Year: 1985
+Description: The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities.
+----------------------------------------
+Short Name: msx2
+System Name: MSX 2
+Release Year: 1985
+Description: MSX is a standardized home computer architecture, announced by Microsoft and ASCII Corporation on June 16, 1983. It was initially conceived by Microsoft as a product for the Eastern sector, and jointly marketed by Kazuhiko Nishi, then vice-president at Microsoft and director at ASCII Corporation.
+----------------------------------------
+Short Name: auto-fight
+System Name: Fighting
+Release Year: Various
+Description: View and play the Fighting games across your entire library.
+----------------------------------------
+Short Name: megadrive
+System Name: Mega Drive
+Release Year: 1990
+Description: The Mega Drive is a 16-bit fourth-generation home video game console developed and sold by Sega. It's Sega's third console and the successor to the Master System.
+----------------------------------------
+Short Name: auto-strategy
+System Name: Strategy
+Release Year: Various
+Description: View and play the Strategy games across your entire library.
+----------------------------------------
+Short Name: psvita
+System Name: PlayStation Vita
+Release Year: 2011
+Description: The PlayStation Vita (PS Vita, or Vita) is a handheld video game console developed and marketed by Sony Interactive Entertainment. It was first released in Japan on December 17, 2011, and in North America, Europe, and other international territories beginning on February 22, 2012.
+----------------------------------------
+Short Name: sgb
+System Name: Super Game Boy
+Release Year: 1994
+Description: The Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console, compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode).
+----------------------------------------
+Short Name: vic20
+System Name: VIC-20
+Release Year: 1980
+Description: The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET.
+----------------------------------------
+Short Name: androidgames
+System Name: Android Games
+Release Year: Various
+Description: View and play your favorite Android Games.
+----------------------------------------
+Short Name: plugnplay
+System Name: Plug and Play TV Games
+Release Year: Various
+Description: View and play your plug and play TV games.
+----------------------------------------
+Short Name: segacd
+System Name: Sega CD
+Release Year: 1992
+Description: The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe.
+----------------------------------------
+Short Name: atarijaguar
+System Name: Atari Jaguar
+Release Year: 1993
+Description: The Atari Jaguar is a fifth generation (1993–2005) video game console developed and distributed by Atari Corporation. It was released in November 1993 in North America at a retail price of $249.
+----------------------------------------
+Short Name: zmachine
+System Name: Z-machine
+Release Year: 1979
+Description: The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform.
+----------------------------------------
+Short Name: snesna
+System Name: Super Nintendo
+Release Year: 1991
+Description: The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short.
+----------------------------------------
+Short Name: tg16cd
+System Name: TurboGrafx-CD
+Release Year: 1989
+Description: The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards.
+----------------------------------------
+Short Name: cps3
+System Name: CPS-III
+Release Year: 1996
+Description: The CP System III (CPシステムIII, shīpī shisutemu surī) or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II.
+----------------------------------------
+Short Name: pspminis
+System Name: Sony PSP Minis
+Release Year: 2009
+Description: PlayStation minis launched on October 1, 2009 for the PSP and the PSPGo in all regions. Under 100MB these games are smaller, cheaper, and download only.
+----------------------------------------
+Short Name: sega32xjp
+System Name: Super 32X
+Release Year: 1994
+Description: The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Mega Drive/Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn.
+----------------------------------------
+Short Name: thomson
+System Name: Thomson TO8
+Release Year: 1986
+Description: The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.
+----------------------------------------
+Short Name: auto-verticalarcade
+System Name: Vertical Arcade
+Release Year: Various
+Description: View and play the Vertical Arcade games across your entire library.
+
+----------------------------------------
+Short Name: gp32
+System Name: GamePark GP32
+Release Year: 2001
+Description: The GP32 (GamePark 32) is a handheld game console developed by the Korean company Game Park. It was released on November 23, 2001, in South Korea only.
+----------------------------------------
+Short Name: n3ds
+System Name: Nintendo 3DS
+Release Year: 2011
+Description: The Nintendo 3DS, abbreviated to 3DS, is a portable game console produced by Nintendo. It is capable of displaying stereoscopic 3D effects without the use of 3D glasses or additional accessories.
+----------------------------------------
+Short Name: gbc
+System Name: Game Boy Color
+Release Year: 1998
+Description: The Game Boy Color, (abbreviated as GBC) is a handheld game console manufactured by Nintendo, which was released on October 21, 1998 in Japan and was released in November of the same year in international markets. It is the successor of the Game Boy.
+----------------------------------------
+Short Name: auto-puzzle
+System Name: Puzzle
+Release Year: Various
+Description: View and play the Puzzle games across your entire library.
+----------------------------------------
+Short Name: virtualboy
+System Name: Virtual Boy
+Release Year: 1995
+Description: The Virtual Boy is a 32-bit tabletop portable video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic "3D" graphics.
+----------------------------------------
+Short Name: nes
+System Name: Nintendo
+Release Year: 1985
+Description: The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC.
+----------------------------------------
+Short Name: emulators
+System Name: Emulators
+Release Year: Various
+Description: Modify your Emulator settings and configurations
+----------------------------------------
+Short Name: ngpc
+System Name: Neo Geo Pocket Color
+Release Year: 1999
+Description: The Neo Geo Pocket Color is a 16-bit color handheld video game console manufactured by SNK. It is a successor to SNK's monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan, with the Color being fully backward compatible.
+----------------------------------------
+Short Name: vsmile
+System Name: V.Smile
+Release Year: 2004
+Description: The V.Smile (stylized as V.
+Several variants of the V.Smile console are sold including handheld versions, or models with added functionality such as touch tablet integrated controllers or microphones. The V-Motion is a major variant with its own software lineup that includes motion sensitive controllers, and has Smartriges designed to take advantage of motion-related "active learning".
+----------------------------------------
+Short Name: mastersystem
+System Name: Master System
+Release Year: 1986
+Description: The Sega Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors.
+----------------------------------------
+Short Name: supervision
+System Name: Supervision
+Release Year: 1992
+Description: The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. It came packaged with a game called Crystball, which is similar to Breakout.
+----------------------------------------
+Short Name: n64
+System Name: Nintendo 64
+Release Year: 1996
+Description: Named for its 64-bit central processing unit, it was released in June 1996 in Japan, September 1996 in North America, March 1997 in Europe and Australia, September 1997 in France and December 1997 in Brazil. As part of the fifth generation of gaming, the N64 competed primarily with the PlayStation and the Sega Saturn.
+----------------------------------------
+Short Name: x68000
+System Name: X68000
+Release Year: 1987
+Description: The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
+----------------------------------------
+Short Name: nesh
+System Name: Nintendo Hacks
+Release Year: 1985
+Description: The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC.
+----------------------------------------
+Short Name: samcoupe
+System Name: SAM Coupé
+Release Year: 1989
+Description: The SAM Coupé (pronounced /sæm ku:peɪ/ from its original British English branding) is an 8-bit British home computer that was first released in late 1989. It was based on and designed to have compatibility with the ZX Spectrum 48K and marketed as a logical upgrade from the Spectrum.
+----------------------------------------
+Short Name: odyssey2
+System Name: Odyssey²
+Release Year: 1978
+Description: The Magnavox Odyssey 2 is a second generation (1976–1992) home video game console developed and distributed by Magnavox. It was released in February 1979 in North America at a retail price of $179.
+----------------------------------------
+Short Name: naomi2
+System Name: Naomi 2
+Release Year: 2000
+Description: The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000.
+----------------------------------------
+Short Name: genh
+System Name: Sega Genesis Hacks
+Release Year: 1989
+Description: The Sega Genesis, known as the Mega Drive in most regions outside North America, is a 16-bit home video game console which was developed and sold by Sega Enterprises, Ltd. The Genesis was Sega's third console and the successor to the Master System.
+----------------------------------------
+Short Name: switch
+System Name: Nintendo Switch
+Release Year: 2017
+Description: The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.
+----------------------------------------
+Short Name: kodi
+System Name: Kodi
+Release Year: 2002
+Description: Kodi is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium. Kodi is available for multiple operating systems and hardware platforms, with a software 10-foot user interface for use with televisions and remote controls.
+----------------------------------------
+Short Name: auto-musicanddance
+System Name: Music and Dance
+Release Year: Various
+Description: View and play the Music and Dance games across your entire library.
+
+----------------------------------------
+Short Name: laser310
+System Name: VTech Laser 310
+Release Year: 1984
+Description: The VTech Laser 310 is a home computer developed by Video Technology. It was released in 1984.
+----------------------------------------
+Short Name: adam
+System Name: Coleco Adam
+Release Year: 1983
+Description: The Coleco Adam is a home computer and expansion device for the ColecoVision by American toy and video game manufacturer Coleco. The Adam was an attempt to follow on the success of the company's ColecoVision video game console.
+----------------------------------------
+Short Name: auto-educational
+System Name: Eductational
+Release Year: Various
+Description: View and play the Eductational games across your entire library.
+----------------------------------------
+Short Name: satellaview
+System Name: Satellaview
+Release Year: 1995
+Description: The Satellaview is a satellite modem peripheral for Nintendo's Super Famicom system that was released in Japan in 1995. Available for pre-release orders beginning February 13, 1995, the Satellaview retailed for between ¥14,000 and 18,000 (at the time between USD$141 and 182) and came bundled with the BS-X Game Pak and an 8M Memory Pak.
+----------------------------------------
+Short Name: tutor
+System Name: Tomy Tutor
+Release Year: 1983
+Description: The Tomy Tutor, originally sold in Japan as the Pyuta and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A, and used a similar 16-bit CPU.
+----------------------------------------
+Short Name: msxturbor
+System Name: MSX Turbo R
+Release Year: 1991
+Description: The MSX Turbo R is the last generation of MSX computers that was put to market by a household electronic brand. Only Panasonic was brave enough to put faith in the standard once again, by releasing two different models: the Panasonic FS-A1ST and the Panasonic FS-A1GT.
+----------------------------------------
+Short Name: fm7
+System Name: FM-7
+Release Year: 1982
+Description: The FM-7 ("Fujitsu Micro 7") is a home computer created by Fujitsu. It was first released in 1982 and was sold in Japan and Spain.
+----------------------------------------
+Short Name: plus4
+System Name: Commodore Plus/4
+Release Year: 1984
+Description: The Commodore Plus/4 is a home computer released by Commodore International in 1984. The "Plus/4" name refers to the four-application ROM-resident office suite (word processor, spreadsheet, database, and graphing); it was billed as "the productivity computer with software built in".
+----------------------------------------
+Short Name: gba
+System Name: Game Boy Advance
+Release Year: 2001
+Description: The Game Boy Advance (abbreviated as GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in Australia and Europe on June 22, 2001, and in mainland China on June 8, 2004 (iQue Player).
+----------------------------------------
+Short Name: advision
+System Name: Advision
+Release Year: 1982
+Description: The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released.
+----------------------------------------
+Short Name: ngp
+System Name: Neo Geo Pocket
+Release Year: 1998
+Description: The Neo Geo Pocket is a monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family.
+----------------------------------------
+Short Name: auto-beatemup
+System Name: Beat 'Em Up
+Release Year: Various
+Description: View and play the Beat 'Em Up games across your entire library.
+----------------------------------------
+Short Name: wasm4
+System Name: WASM-4
+Release Year: 2022
+Description: WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .
+----------------------------------------
+Short Name: android
+System Name: Google Android
+Release Year: 2008
+Description: Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance, though its most widely used version is primarily developed by Google.
+----------------------------------------
+Short Name: socrates
+System Name: VTech Socrates
+Release Year: 1988
+Description: The VTech Socrates, usually just referred to as Socrates, is a third generation (1983-2003) video game console developed and distributed by VTech. It was released in July 1988 in North America at a retail price of $129.
+----------------------------------------
+Short Name: pcengine
+System Name: PC Engine
+Release Year: 1987
+Description: The PC Engine is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989.
+----------------------------------------
+Short Name: openbor
+System Name: Open Beats of Rage
+Release Year: 2003
+Description: Beats of Rage is a fan-made tribute game to Sega's Streets of Rage series. It supplants the original graphics and characters with resources taken from The King of Fighters series, albeit with tongue-in-cheek renames.
+----------------------------------------
+Short Name: auto-breakout
+System Name: Breakout
+Release Year: Various
+Description: View and play the Breakout games across your entire library.
+
+----------------------------------------
+Short Name: lcdgames
+System Name: LCD Games
+Release Year: Various
+Description: Handheld electronic games are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games. The controls, display and speakers are all part of a single unit.
+----------------------------------------
+Short Name: genesis
+System Name: Sega Genesis
+Release Year: 1989
+Description: The Sega Genesis, known as the Mega Drive in most regions outside North America, is a 16-bit home video game console which was developed and sold by Sega Enterprises, Ltd. The Genesis was Sega's third console and the successor to the Master System.
+----------------------------------------
+Short Name: cps1
+System Name: CPS-I
+Release Year: 1988
+Description: The CP System (CPシステム, shīpī shisutemu, CPS for short) is an arcade system board developed by Capcom that ran game software stored on removable daughterboards. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.
+----------------------------------------
+Short Name: atom
+System Name: Acorn Atom
+Release Year: 1980
+Description: The Acorn Atom is a home computer designed by Acorn Computers Ltd. The computer was released in 1980 in Europe at a retail price ranging from £120 to £200, depending on the package bought.
+----------------------------------------
+Short Name: multivision
+System Name: Othello Multivision
+Release Year: 1983
+Description: The Othello Multivision (オセロマルチビジョン) is a licensed SG-1000 clone manufactured by Tsukuda Original. It exists because Sega's original intention for the SC-3000 computer was to allow other manufacturers to produce compatible computers in the hope of having a worldwide standard.
+----------------------------------------
+Short Name: arcadia
+System Name: Arcadia 2001
+Release Year: 1982
+Description: The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released.
+----------------------------------------
+Short Name: coco
+System Name: Tandy CoCo
+Release Year: 1980
+Description: The RadioShack TRS-80 Color Computer, later marketed as the Tandy Color Computer and sometimes nicknamed the CoCo, is a line of home computers developed and sold by Tandy Corporation. Despite sharing a name with the earlier TRS-80, the Color Computer is a completely different, incompatible system and a radical departure in design and compatibility with its Motorola 6809E processor rather than the Zilog Z80 earlier models were built around.
+----------------------------------------
+Short Name: auto-compilation
+System Name: Compilation
+Release Year: Various
+Description: View and play the Compilation games across your entire library.
+----------------------------------------
+Short Name: psx
+System Name: PlayStation
+Release Year: 1994
+Description: The Sony PlayStation, or PS for short, is a fifth generation (1993–2005) home video game console developed and distributed by Sony Interactive Entertainment. It was released on December 3, 1994 in Japan at a retail price of ¥37,000.
+----------------------------------------
+Short Name: saturn
+System Name: Sega Saturn
+Release Year: 1995
+Description: The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. Part of the fifth generation of video game consoles, it was the successor to the successful Sega Genesis.
+----------------------------------------
+Short Name: consolearcade
+System Name: Console Arcade Games
+Release Year: Various
+Description: While arcade boards have traditionally been custom designs, there have been a number of systems that were instead based on home console platforms. The first such board was the Nintendo VS.
+----------------------------------------
+Short Name: arduboy
+System Name: Arduboy
+Release Year: 2015
+Description: The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform.
+----------------------------------------
+Short Name: amiga1200
+System Name: Amiga 1200
+Release Year: 1985
+Description: The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities.
+----------------------------------------
+Short Name: megacdjp
+System Name: Mega-CD
+Release Year: 1991
+Description: The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe.
+----------------------------------------
+Short Name: ngage
+System Name: N-Gage
+Release Year: 2003
+Description: The N-Gage is a smartphone combining features of a mobile phone and a handheld game system developed by Nokia, announced on 4 November 2002 and released on 7 October 2003. It runs the original Series 60 platform on Symbian OS v6.
+----------------------------------------
+Short Name: megaduck
+System Name: Mega Duck
+Release Year: 1993
+Description: The Welback Holdings Mega Duck, usually just referred to as Mega Duck, is a fourth generation (1987-2004) handheld video game console developed and distributed by Welback Holdings, but marketed under different names like Creatronic, Videojet, Cougar USA, and Hartung. It was released in August 1993 in Netherlands at a retail price of fl 129 as the Creatronic Mega Duck.
+----------------------------------------
+Short Name: ps4
+System Name: PlayStation 4
+Release Year: 2013
+Description: The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013, it was launched on November 15, 2013, in North America, November 29, 2013 in Europe, South America and Australia, and on February 22, 2014 in Japan.
+----------------------------------------
+Short Name: tg-cd
+System Name: TurboGrafx-CD
+Release Year: 1989
+Description: The CD-ROM² (pronounced CD-ROM-ROM) is an add-on attachment for the PC Engine that was released in Japan on December 4, 1988. The add-on allows the core versions of the console to play PC Engine games in CD-ROM format in addition to standard HuCards.
+----------------------------------------
+Short Name: auto-racedriving
+System Name: Race Driving
+Release Year: Various
+Description: View and play the Race Driving games across your entire library.
+----------------------------------------
+Short Name: windows
+System Name: Windows
+Release Year: 1985
+Description: Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.
+
+The first version of Windows was released on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).
+----------------------------------------
+Short Name: completed
+System Name: Completed
+Release Year: Various
+Description: Keep track of the games you've finished.
+----------------------------------------
+Short Name: sega32x
+System Name: Mega Drive 32X
+Release Year: 1994
+Description: The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Mega Drive/Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn.
+----------------------------------------
+Short Name: fbneo
+System Name: FinalBurn Neo
+Release Year: 2002
+Description: FinalBurn Neo is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the FinalBurn team and originated from FinalBurn by Dave and old MAME versions.
+----------------------------------------
+Short Name: auto-at2players
+System Name: 2 Player
+Release Year: Various
+Description: View and play the 2 player games across your entire library.
+----------------------------------------
+Short Name: tanodragon
+System Name: Tano Dragon
+Release Year: 1984
+Description: The Dragon 32 and Dragon 64 are home computers that were built in the 1980s. The Dragons are very similar to the TRS-80 Color Computer, and were produced for the European market by Dragon Data, Ltd.
+----------------------------------------
+Short Name: snesnah
+System Name: Super Nintendo Hacks
+Release Year: 1991
+Description: The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short.
+----------------------------------------
+Short Name: amigacdtv
+System Name: CDTV
+Release Year: 1991
+Description: The CDTV (an acronym for "Commodore Dynamic Total Vision", a backronym of an acronym for "Compact Disc Television", giving it a double meaning) is a multimedia platform developed by Commodore International and launched in March 1991. The CDTV was intended as a media appliance rather than a personal computer.
+----------------------------------------
+Short Name: zelda
+System Name: The Legend of Zelda
+Release Year: Various
+Description: View and play the Zelda Games in your collection.
+----------------------------------------
+Short Name: model2
+System Name: Sega Model 2
+Release Year: 1993
+Description: The Sega Model 2 is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board. It is an extension of the Model 1 hardware, most notably introducing the concept of texture-mapped polygons, allowing for more realistic 3D graphics (for its time).
+----------------------------------------
+Short Name: auto-sports
+System Name: Sports
+Release Year: Various
+Description: View and play the Sports games across your entire library.
+----------------------------------------
+Short Name: atarist
+System Name: Atari ST
+Release Year: 1985
+Description: The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial model, the 520ST, saw limited release in April–June 1985 and was widely available in July.
+----------------------------------------
+Short Name: auto-adult
+System Name: Adult
+Release Year: Various
+Description: View and play the adult games across the entire library.
+----------------------------------------
+Short Name: desktop
+System Name: Desktop Shorcuts
+Release Year: Various
+Description: View and run your Desktop shortcuts
+----------------------------------------
+Short Name: gbah
+System Name: GBA Hacks
+Release Year: 2001
+Description: The Game Boy Advance (abbreviated as GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in Australia and Europe on June 22, 2001, and in mainland China on June 8, 2004 (iQue Player).
+----------------------------------------
+Short Name: final_fantasy
+System Name: Final Fantasy
+Release Year: Various
+Description: View and play the Final Fantasy Games in your collection.
+----------------------------------------
+Short Name: windows9x
+System Name: Windows 9X
+Release Year: 1998
+Description: Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.
+----------------------------------------
+Short Name: tic-80
+System Name: TIC-80
+Release Year: 2017
+Description: TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game.
+----------------------------------------
+Short Name: mugen
+System Name: M.U.G.E.N
+Release Year: 1999
+Description: Mugen (stylized as M.U.
+----------------------------------------
+Short Name: gameandwatch
+System Name: Game & Watch
+Release Year: 1980
+Description: The Game & Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen.
+----------------------------------------
+Short Name: auto-lastplayed
+System Name: Last Played
+Release Year: Various
+Description: View your recently played games across the entire library.
+----------------------------------------
+Short Name: x1
+System Name: X1
+Release Year: 1982
+Description: The X1 (エックスワン, Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.
+Despite the fact that the Computer Division of Sharp Corporation had released the MZ series, suddenly the Television Division released a new computer series called the X1.
+----------------------------------------
+Short Name: auto-shootemup
+System Name: Shoot 'Em Up
+Release Year: Various
+Description: View and play the Shoot 'Em Up games across your entire library.
+----------------------------------------
+Short Name: playdate
+System Name: Playdate
+Release Year: 2022
+Description: Playdate is a handheld video game console developed by Panic. As well as buttons and a directional pad, the device has a mechanical crank on its side.
+----------------------------------------
+Short Name: steam
+System Name: Steam
+Release Year: 2003
+Description: Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.
+----------------------------------------
+Short Name: pico8
+System Name: PICO-8
+Release Year: 2015
+Description: PICO-8 is a virtual machine and game engine created by Lexaloffle Games. It is a fantasy video game console that mimics the limited graphical and sound capabilities of 8-bit systems of the 1980s.
+----------------------------------------
+Short Name: atari5200
+System Name: Atari 5200
+Release Year: 1982
+Description: The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a second generation (1976–1992) video game console developed and distributed by Atari, Inc. It was released in November 1982 in North America at a retail price of $269.
+----------------------------------------
+Short Name: model3
+System Name: Sega Model 3
+Release Year: 1996
+Description: The Sega Model 3 is an arcade platform produced by Sega in partnership with Lockheed Martin. It is a successor to the Sega Model 2 platform, and was released in 1996.
+----------------------------------------
+Short Name: cdimono1
+System Name: Philips CD-i
+Release Year: 1991
+Description: The Philips CD-i (Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V.
+----------------------------------------
+Short Name: lowresnx
+System Name: LowRes NX
+Release Year: 2017
+Description: LowRes NX was inspired by real 8-bit and 16-bit systems and simulates chips for graphics, sound and I/O, which actually work like classic hardware. It supports hardware sprites as well as hardware parallax scrolling, and even offers vertical blank and raster interrupts to create authentic retro effects.
+----------------------------------------
+Short Name: wiiu
+System Name: Wii U
+Release Year: 2012
+Description: The Wii U (WEE YOO) is a home video game console developed by Nintendo as the successor to the Wii. Released in late 2012, it is the first eighth-generation video game console and competed with Microsoft's Xbox One and Sony's PlayStation 4.
+----------------------------------------
+Short Name: auto-wheel
+System Name: Wheel
+Release Year: Various
+Description: View and play the wheel games across your entire library.
+----------------------------------------
+Short Name: gamate
+System Name: Gamate
+Release Year: 1990
+Description: The Gamate, known as 超級小子 (pinyin: chāojí xiǎozi, literally "Super Boy") in Taiwan and 超级神童 (pinyin: chāojí shéntóng, literally "Super Child Prodigy") in China, is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia (Taiwan and China), Argentina, and the United States.
+----------------------------------------
+Short Name: ps2
+System Name: PlayStation 2
+Release Year: 2000
+Description: The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and Australia on November 24, 2000.
+----------------------------------------
+Short Name: auto-simulation
+System Name: Simulation
+Release Year: Various
+Description: View and play the Simulation games across your entire library.
+----------------------------------------
+Short Name: fba
+System Name: FinalBurn Alpha
+Release Year: 2000
+Description: This source-available project is based on FinalBurn, created by Dave in 2000. It has been programmed by a team composed of Barry Harris (Old username: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami and Ayeye.
+----------------------------------------
+Short Name: neogeocd
+System Name: Neo Geo CD
+Release Year: 1994
+Description: The Neo Geo CD (Japanese: ネオジオCD, Hepburn: Neo Jio Shī Dī) is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges.
+----------------------------------------
+Short Name: windows3x
+System Name: Windows 3.X
+Release Year: 1992
+Description: Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.
+----------------------------------------
+Short Name: vectrex
+System Name: Vectrex
+Release Year: 1982
+Description: The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983.
+----------------------------------------
+Short Name: pv1000
+System Name: PV-1000
+Release Year: 1983
+Description: The Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release.
+----------------------------------------
+Short Name: intellivision
+System Name: Intellivision
+Release Year: 1979
+Description: The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299.
+----------------------------------------
+Short Name: atarilynx
+System Name: Atari Lynx
+Release Year: 1989
+Description: The Atari Lynx, usually just referred to as Lynx, is a fourth generation (1987-2004) handheld video game console developed in partnership with Epyx, Inc. and distributed by the Atari Corporation.
+----------------------------------------
+Short Name: supergrafx
+System Name: SuperGrafx
+Release Year: 1989
+Description: The PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), also known as simply the SuperGrafx, is a fourth-generation home video game console manufactured by NEC Home Electronics and released in Japan and France in 1989. It is the successor system to the PC Engine, released two years prior.
+----------------------------------------
+Short Name: mess
+System Name: MESS
+Release Year: 1998
+Description: Multi Emulator Super System (MESS) is an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program (which has since been discontinued), but is now integrated into MAME (which is actively developed).
+----------------------------------------
+Short Name: ports
+System Name: Ports
+Release Year: Various
+Description: View and play all of your favorite game ports.
+----------------------------------------
+Short Name: wii
+System Name: Wii
+Release Year: 2006
+Description: The Wii (known unofficially as the Nintendo Wii) is a home video game console released by Nintendo on November 19, 2006. As a seventh generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3.
+----------------------------------------
+Short Name: pc98
+System Name: PC-98
+Release Year: 1982
+Description: The NEC PC-9800 was line of personal computers developed in 1982 in Japan by NEC Corporation based on IBM, aimed exclusively at the Japanese market. The first model was a 16-bit architecture with an Intel 8086 processor clocked at 5 MHz and 128 KB of RAM.
+----------------------------------------
+Short Name: snes
+System Name: Super Nintendo
+Release Year: 1992
+Description: The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short.
+----------------------------------------
+Short Name: system2x6
+System Name: Namco System 246/256
+Release Year: 2001
+Description: The Namco System 246/256 is an arcade platform based on the Sony PlayStation 2. Sometimes referred to as Namco 2x6, as the two hardwares are very similar and run much of the same software.
+----------------------------------------
+Short Name: dos
+System Name: MS-DOS
+Release Year: 1981
+Description: MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft. It was the most commonly used member of the DOS family of operating systems, and was the main operating system for IBM PC compatible personal computers during the 1980s to the mid-1990s, when it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the Microsoft Windows operating system.
+----------------------------------------
+Short Name: channelf
+System Name: Fairchild Channel F
+Release Year: 1976
+Description: The Fairchild Channel F is a home video game console released by Fairchild Semiconductor in November 1976. 
+----------------------------------------
+Short Name: nesdisk
+System Name: Nintendo Famicom Disk System
+Release Year: 1983
+Description: The Nintendo Entertainment System is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC.
+----------------------------------------
+Short Name: electron
+System Name: Acorn Electron
+Release Year: 1983
+Description: The Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a lower-cost alternative to the BBC Micro educational/home computer, also developed by Acorn Computers Ltd, to provide many of the features of that more expensive machine at a price more competitive with that of the ZX Spectrum. It had 32 kilobytes of RAM, and its ROM included BBC BASIC II together with the operating system.
+----------------------------------------
+Short Name: atari800
+System Name: Atari 800
+Release Year: 1979
+Description: The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 and manufactured until 1992.
+----------------------------------------
+Short Name: bbcmicro
+System Name: BBC Micro
+Release Year: 1981
+Description: The British Broadcasting Corporation Microcomputer System, BBC Microcomputer System, or best known as the BBC Micro is a series of microcomputers designed by Acorn Computers Ltd. and distributed by the BBC.
+----------------------------------------
+Short Name: prboom
+System Name: Doom
+Release Year: 1993
+Description: Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell.
+----------------------------------------
+Short Name: astrocade
+System Name: Bally Astrocade
+Release Year: 1977
+Description: The Bally Astrocade (also known as Bally Arcade or initially as Bally ABA-1000) is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally.
+----------------------------------------
+Short Name: model1
+System Name: Sega Model 1
+Release Year: 1992
+Description: The Sega Model 1 is an arcade system board that was released by Sega in 1992 and is the successor to the Sega System 32 (released in 1990). While earlier Sega hardware was capable of handling 3D polygons (such as the Mega Drive, released in 1988), the Model 1 was Sega's first hardware specifically designed for 3D polygon graphics.
+----------------------------------------
+Short Name: moto
+System Name: Thomson MOTO
+Release Year: 1984
+Description: The Thomson MOTO line of computers were a series of 8-bit computers sold in the 1980s by French electronics company Thomson, which has been nationalized in 1982. The MOTO computers became an integral part of the French Government's plan informatique pour tous (IPT) to make computers widespread throughout France by bringing computers and programming classes to French school children.
+----------------------------------------
+Short Name: vc4000
+System Name: VC 4000
+Release Year: 1978
+Description: The VC 4000 (short for Video Computer 4000) is an early second generation 8-bit cartridge-based home video game console released in Germany in 1978 by Interton. The console is quite obscure outside Germany, but many software-compatible systems can be found in many European countries.
+----------------------------------------
+Short Name: auto-favorites
+System Name: Favorites
+Release Year: Various
+Description: View and play your favorite games across the entire library.
+----------------------------------------
+Short Name: auto-sportswithanimals
+System Name: Sports with Animals
+Release Year: Various
+Description: View and play the Sports with Animals games across your entire library.
+----------------------------------------
+Short Name: solarus
+System Name: Solarus
+Release Year: 2021
+Description: Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.The engine is programmed in C++, with the SDL library and an OpenGL backend.
+----------------------------------------
+Short Name: 3do
+System Name: 3DO
+Release Year: 1993
+Description: The 3DO Interactive Multiplayer (often called simply 3DO) is a video game console originally produced by Panasonic in 1993. Further renditions of the hardware were released in 1994 by Sanyo and Goldstar.
+----------------------------------------
+Short Name: j2me
+System Name: J2ME
+Release Year: 1998
+Description: Java Platform, Micro Edition or Java ME is a computing platform for development and deployment of portable code for embedded and mobile devices (micro-controllers, sensors, gateways, mobile phones, personal digital assistants, TV set-top boxes, printers). Java ME was formerly known as Java 2 Platform, Micro Edition or J2ME.
+----------------------------------------
+Short Name: trs-80
+System Name: TRS-80
+Release Year: 1977
+Description: The TRS-80 Micro Computer System (TRS-80, later renamed the Model I to distinguish it from successors) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy Radio Shack, Z80 [microprocessor].
+----------------------------------------
+Short Name: daphne
+System Name: Daphne
+Release Year: 2007
+Description: Daphne is an arcade emulator application that emulates a variety of laserdisc video games with the intent of preserving these games and making the play experience as faithful to the originals as possible. The developer calls Daphne the "First Ever Multiple Arcade Laserdisc Emulator" ("FEMALE").
+----------------------------------------
+Short Name: pokemini
+System Name: Pokémon Mini
+Release Year: 2001
+Description: The Pokémon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokémon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (70 grams).
+----------------------------------------
+Short Name: auto-playingcards
+System Name: Playing Cards
+Release Year: Various
+Description: View and play the Playing Cards games across your entire library.
+----------------------------------------
+Short Name: pc88
+System Name: PC-88
+Release Year: 1981
+Description: The PC-8800 series (Japanese: PC-8800シリーズ, Hepburn: Pī Shī Hassen Happyaku Shirīzu), commonly shortened to PC-88, are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company (NEC) in 1981 and primarily sold in Japan.
+----------------------------------------
+Short Name: atari7800
+System Name: Atari 7800
+Release Year: 1986
+Description: The Atari 7800 Pro System, commonly known as the Atari 7800, is a third generation (1983-2003) video game console developed and distributed by Atari Corporation. It was released in May 1986 in North America at a retail price of $79.
+----------------------------------------
+Short Name: tvgames
+System Name: Plug and Play TV Games
+Release Year: Various
+Description: View and play your plug and play TV games.
+----------------------------------------
+Short Name: neogeocdjp
+System Name: Neo Geo CD
+Release Year: 1994
+Description: The Neo Geo CD (Japanese: ネオジオCD, Hepburn: Neo Jio Shī Dī) is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges.
+----------------------------------------
+Short Name: snesh
+System Name: Super Nintendo Hacks
+Release Year: 1992
+Description: The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short.
+----------------------------------------
+Short Name: gamecube
+System Name: Nintendo Game Cube
+Release Year: 2001
+Description: The Nintendo GameCube is a home video game console released by Nintendo in Japan and North America in 2001 and in PAL territories in 2002. The GameCube is Nintendo's entry in the sixth generation of video game consoles and is the successor to their previous console, the Nintendo 64.
+----------------------------------------
+Short Name: pokemon
+System Name: Pokémon
+Release Year: Various
+Description: View and play the Pokémon Games in your collection.
+----------------------------------------
+Short Name: auto-casino
+System Name: Casino
+Release Year: Various
+Description: View and play the Casino games across your entire library.
+----------------------------------------
+Short Name: mame-advmame
+System Name: AdvanceMAME
+Release Year: 1998
+Description: AdvanceMAME, is a port of the MAME 0.106 and MESS 0.
+----------------------------------------
+Short Name: auto-demo
+System Name: Demo
+Release Year: Various
+Description: View and play the Demo games across your entire library.
+----------------------------------------
+Short Name: creativision
+System Name: VTech CreatiVision
+Release Year: 1982
+Description: The VTech CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982 during the second generation of video game consoles. It cost $295 Australian Dollars in Australia.
+----------------------------------------
+Short Name: auto-neverplayed
+System Name: Never Played
+Release Year: Various
+Description: View and play your never played games across your entire library.
+----------------------------------------
+Short Name: pet
+System Name: Commodore Pet
+Release Year: 1977
+Description: The Commodore PET (Personal Electronic Transactor) is a line of home/personal computers produced starting in 1977 by Commodore International. A top-seller in the Canadian and United States educational markets, it was Commodore's first full-featured computer, and formed the basis for their entire 8-bit product line, including the Commodore 64.
+----------------------------------------
+Short Name: segastv
+System Name: ST-V
+Release Year: 1994
+Description: ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system.
+----------------------------------------
+Short Name: uzebox
+System Name: Uzebox
+Release Year: 2008
+Description: The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel.
+----------------------------------------
+Short Name: namco2x6
+System Name: Namco System 246/256
+Release Year: 2001
+Description: The Namco System 246/256 is an arcade platform based on the Sony PlayStation 2. Sometimes referred to as Namco 2x6, as the two hardwares are very similar and run much of the same software.
+----------------------------------------
+Short Name: auto-roleplayings
+System Name: Roleplaying
+Release Year: Various
+Description: View and play the Roleplaying games across your entire library.
+----------------------------------------
+Short Name: auto-reflection
+System Name: Reflection
+Release Year: Various
+Description: View and play the Reflection games across your entire library.
+----------------------------------------
+Short Name: lutro
+System Name: Lutro
+Release Year: 2015
+Description: Lutro is a 2D game framework that aims for simplicity and extreme portability. Using lutro, you can develop any kind of 2D retro games, like NES or Genesis games, and run them on a wide range of platforms through RetroArch.
+----------------------------------------
+Short Name: xegs
+System Name: Atari XE
+Release Year: 1987
+Description: The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the Nintendo Entertainment System, Sega's Master System, and Atari's own Atari 7800.
+----------------------------------------
+Short Name: gmaster
+System Name: Game Master
+Release Year: 1990
+Description: The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema.
+----------------------------------------
+Short Name: type-x
+System Name: Taito Type X
+Release Year: 2004
+Description: The Taito Type X is an arcade system board released in 2004 by game developer and publisher Taito.
+----------------------------------------
+Short Name: auto-allgames
+System Name: All Games
+Release Year: Various
+Description: View and play every game across your entire library.
+----------------------------------------
+Short Name: apple2
+System Name: Apple II
+Release Year: 1977
+Description: In 1976, computer pioneers Steve Wozniak and Steve Jobs began selling their Apple I computer in kit form to computer stores. A month later, Wozniak was working on a design for an improved version, the Apple II.
+----------------------------------------
+Short Name: tg16
+System Name: TurboGrafx-16
+Release Year: 1989
+Description: The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989.
+----------------------------------------
+Short Name: sg-1000
+System Name: SG-1000
+Release Year: 1983
+Description: The SG-1000 is a home video game console manufactured by Sega and released in Japan, Australia, New Zealand, and other regions. It was Sega's first entry into the home video game hardware business.
+----------------------------------------
+Short Name: gamepock
+System Name: Game Pocket Computer
+Release Year: 1984
+Description: The Epoch Game Pocket Computer is a second-generation handheld game console released by Epoch Co. in Japan in 1984 for 12,800 Japanese yen.
+----------------------------------------
+Short Name: auto-platform
+System Name: Platform
+Release Year: Various
+Description: View and play the Platform games across your entire library.
+----------------------------------------
+Short Name: zxspectrum
+System Name: ZX Spectrum
+Release Year: 1982
+Description: The ZX Spectrum is an 8-bit personal home computer released in the United Kingdom in 1982 by Sinclair Research Ltd. It was the follow-up to the Sinclair ZX81.
+----------------------------------------
+Short Name: auto-casual
+System Name: Casual
+Release Year: Various
+Description: View and play the Casual games across your entire library.
+
+----------------------------------------
+Short Name: scummvm
+System Name: ScummVM
+Release Year: 2001
+Description: Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft.
+----------------------------------------
+Short Name: auto-various
+System Name: Various
+Release Year: Various
+Description: View and play various games across your entire library.
+----------------------------------------
+Short Name: cps
+System Name: Capcom Play System
+Release Year: 1988
+Description: The CP System (CPシステム, shīpī shisutemu, CPS for short) is an arcade system board developed by Capcom that ran game software stored on removable daughterboards. More than two dozen arcade titles were released for CPS-1, before Capcom shifted game development over to its successor, the CP System II.
+----------------------------------------
+Short Name: amigacd32
+System Name: Amiga CD32
+Release Year: 1993
+Description: The Amiga CD32, styled "CD32" and code-named "Spellbound", is the first 32-bit home video game console released in western Europe, Australia, Canada and Brazil. It was first announced at the Science Museum in London on July 16, 1993, and was released in September of the same year.
+----------------------------------------
+Short Name: dragon32
+System Name: Dragon 32
+Release Year: 1982
+Description: The Dragon 32 and Dragon 64 are home computers that were built in the 1980s. The Dragons are very similar to the TRS-80 Color Computer, and were produced for the European market by Dragon Data, Ltd.
+----------------------------------------
+Short Name: auto-quiz
+System Name: Quiz
+Release Year: Various
+Description: View and play the Quiz games across your entire library.
+----------------------------------------
+Short Name: auto-board
+System Name: Board Games
+Release Year: Various
+Description: View and play the Board games across your entire library.
+----------------------------------------
+Short Name: macintosh
+System Name: Macintosh
+Release Year: 1984
+Description: The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. (originally as Apple Computer, Inc.
+----------------------------------------
+Short Name: zeldac
+System Name: Zelda Classic
+Release Year: Various
+Description: View and play the Zelda Games in your collection.
+----------------------------------------
+Short Name: xbox360
+System Name: Xbox 360
+Release Year: 2005
+Description: The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series.
+----------------------------------------
