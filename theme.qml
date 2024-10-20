@@ -29,7 +29,7 @@ FocusScope {
         source: "assets/audio/background2.wav"
         loops: Audio.Infinite
         autoPlay: true
-        volume: 1.0
+        volume: 1.1
     }
 
     ShaderEffect {
