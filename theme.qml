@@ -615,7 +615,7 @@ FocusScope {
                     SoundEffect {
                         id: favSound
                         source: "assets/audio/Fav.wav"
-                        volume: 0.5
+                        volume: 1.0
                     }
 
                     Keys.onPressed: {
@@ -631,6 +631,7 @@ FocusScope {
                         } else if (!event.isAutoRepeat && api.keys.isAccept(event)) {
                             event.accepted = true;
                             game.launch();
+
                         } else if (!event.isAutoRepeat && api.keys.isDetails(event)) {
                             favSound.play();
                             var selectedGame = pathViewGames.model.get(pathViewGames.currentIndex);
@@ -673,7 +674,7 @@ FocusScope {
                 }
             }
         }
-    
+        // GridView
         Item {
             id: gridViewProxymodel
             width: parent.width * 0.90
@@ -705,7 +706,7 @@ FocusScope {
                         anchors.fill: parent
                         source: Image {
                             source: (gridView.model === favoritesProxyModel) ? model.assets.boxFront : model.assets.screenshot
-                            fillMode: Image.PreserveAspectFit
+                            fillMode: Image.PreserveAspectCrop
                         }
 
                         maskSource: Rectangle {
@@ -745,7 +746,7 @@ FocusScope {
                             anchors.top: parent.top
                             anchors.left: parent.left
                             anchors.margins: 8
-                            visible: gridView.model === continuePlayingProxyModel 
+                            visible: gridView.model === continuePlayingProxyModel
 
                             Image {
                                     source: "assets/icons/play.png"
@@ -817,11 +818,29 @@ FocusScope {
 
                         favo.forceActiveFocus();
                         root.inButtons = true;
+                    } else if (!event.isAutoRepeat && api.keys.isDetails(event)) {
+                        favSound.play();
+                        var selectedGame = gridView.model.get(gridView.currentIndex);
+                        var collectionName = getNameCollecForGame(selectedGame);
+                        for (var i = 0; i < api.collections.count; ++i) {
+                            var collection = api.collections.get(i);
+                            if (collection.name === collectionName) {
+                                for (var j = 0; j < collection.games.count; ++j) {
+                                    var gamefound = collection.games.get(j);
+                                    if (gamefound.title === selectedGame.title) {
+                                        gamefound.favorite = !gamefound.favorite;
+                                        updateContinuePlayingModel();
+                                        break;
+                                    }
+                                }
+                                break;
+                            }
+                        }
                     }
                 }
 
                 onCurrentItemChanged: {
-    
+                    //Puedo agregar cosas que hacer al estar sobre un Item del gridview
                 }
 
                 Component.onCompleted: {
