@@ -26,7 +26,7 @@ FocusScope {
 
     Audio {
         id: backgroundMusic
-        source: "assets/audio/background2.wav"
+        source: "assets/audio/background6.wav"
         loops: Audio.Infinite
         autoPlay: true
         volume: 1.0
