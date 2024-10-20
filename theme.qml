@@ -337,35 +337,36 @@ FocusScope {
                             visible: true
                         }
 
-                        /*ColorOverlay {
-                            anchors.fill: coverImage
-                            source: coverImage
-                            color: "black"
-                            opacity: selected ? 0 : 0.7
-                            Behavior on opacity {
-                                NumberAnimation { duration: 300 }
+                        Rectangle {
+                            id: favoriteIcon
+                            width: parent.width * 0.2
+                            height: parent.height * 0.1
+                            anchors.bottom: parent.bottom
+                            //anchors.left: parent.left
+                            anchors.horizontalCenter: parent.horizontalCenter
+                            color: "white"
+                            radius: 5
+                            anchors.margins: 8
+                            visible: selected
+
+                            Text {
+                                text: model.games.count + " Games"
+                                color: "grey"
+                                anchors.centerIn: parent
+                                font.family: fontLoaderDesc.name
+                                font.pixelSize: parent.height * 0.3
                             }
-                        }*/
+                        }
 
                         ColorOverlay {
                             anchors.fill: coverImage
                             source: coverImage
                             color: "black"
-
-                            // Cambiamos la opacidad según si la colección está seleccionada y si el PathView tiene el foco
                             opacity: selected && pathView.focus ? 0 : 0.7
 
                             Behavior on opacity {
                                 NumberAnimation { duration: 200 }
                             }
-                        }
-
-                        Rectangle {
-                            anchors.fill: parent
-                            color: "transparent"
-                            border.color: PathView.isCurrentItem ? "white" : "transparent"
-                            border.width: 4
-                            radius: 10
                         }
 
                         Behavior on scale {
@@ -459,7 +460,6 @@ FocusScope {
                                 game = pathViewGames.model.get(0);
                                 gameTitle = game ? game.title : "";
 
-                                // Recorta la descripción del juego a las primeras dos oraciones
                                 if (game && game.description) {
                                     var firstDotIndex = game.description.indexOf(".");
                                     var secondDotIndex = game.description.indexOf(".", firstDotIndex + 1);
