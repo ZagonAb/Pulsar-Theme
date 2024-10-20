@@ -26,7 +26,7 @@ FocusScope {
 
     Audio {
         id: backgroundMusic
-        source: "assets/audio/background6.wav"
+        source: "assets/audio/background5.wav"
         loops: Audio.Infinite
         autoPlay: true
         volume: 1.0
@@ -777,7 +777,6 @@ FocusScope {
                     color: "lightgray"
                     font.family: fontLoaderDesc.name
                 }
-
 
                 property int countPerRow: 4
                 property int countPerColumn: 4
