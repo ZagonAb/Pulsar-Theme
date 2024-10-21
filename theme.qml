@@ -23,14 +23,53 @@ FocusScope {
     property string gameDescription: ""
     property string lastFocusedView: "collections"
 
-    Audio {
+    /*Audio {
         id: backgroundMusic
         source: "assets/audio/background5.wav"
         loops: Audio.Infinite
         autoPlay: true
         volume: 1.0
+    }*/
+
+    SoundEffect {
+        id: movSound
+        source: "assets/audio/movimiento.wav"
+        volume: 1.0
     }
 
+
+    SoundEffect {
+        id: inicioSound
+        source: "assets/audio/inicio2.wav"
+        onPlayingChanged: {
+            if (playing) {
+                // Duración fija (por ejemplo, 3000 ms - 1s = 2000 ms)
+                iniciarMusicaTimer.interval = 1000
+                iniciarMusicaTimer.start()
+            }
+        }
+    }
+
+    // Temporizador para iniciar la música
+    Timer {
+        id: iniciarMusicaTimer
+        interval: 0  // Se ajustará dinámicamente
+        repeat: false
+        running: false
+        onTriggered: musica.play()  // Inicia la música cuando el temporizador se activa
+    }
+
+    // Música de fondo
+    Audio {
+        id: musica
+        source: "assets/audio/background.mp3"
+        autoPlay: false
+        onStopped: play()  // Reproduce en bucle
+    }
+
+    Component.onCompleted: {
+        inicioSound.play()  // Inicia el sonido de inicio
+    }
 
     ShaderEffect {
         anchors.fill: parent
@@ -334,6 +373,7 @@ FocusScope {
                         if (root.inButtons && favo.focus) {
                             cont.forceActiveFocus();
                             event.accepted = true;
+                            movSound.play();
                         }
                     }
 
@@ -341,6 +381,7 @@ FocusScope {
                         if (root.inButtons && cont.focus) {
                             favo.forceActiveFocus();
                             event.accepted = true;
+                            movSound.play();
                         }
                     }
 
@@ -353,6 +394,7 @@ FocusScope {
                             }
                             root.inButtons = false;
                             event.accepted = true;
+                            movSound.play();
                         }
                     }
 
@@ -495,15 +537,18 @@ FocusScope {
                             if (event.key === Qt.Key_Right) {
                                 if (currentIndex < model.count - 1) {
                                     currentIndex += 1;
+                                    movSound.play();
                                 }
                             } else if (event.key === Qt.Key_Left) {
                                 if (currentIndex > 0) {
                                     currentIndex -= 1;
+                                    movSound.play();
                                 }
                             } else if (event.key === Qt.Key_Up) {
                                 favo.forceActiveFocus();
                                 root.inButtons = true;
                                 root.lastFocusedView = "collections";
+                                movSound.play();
                             }
                         }
                     }
@@ -763,15 +808,18 @@ FocusScope {
                             if (event.key === Qt.Key_Right) {
                                 if (currentIndex < model.count - 1) {
                                     currentIndex += 1;
+                                    movSound.play();
                                 }
                             } else if (event.key === Qt.Key_Left) {
                                 if (currentIndex > 0) {
                                     currentIndex -= 1;
+                                    movSound.play();
                                 }
                             } else if (event.key === Qt.Key_Up) {
                                 favo.forceActiveFocus();
                                 root.inButtons = true;
                                 root.lastFocusedView = "games";
+                                movSound.play();
                             }
                         }
                     }
