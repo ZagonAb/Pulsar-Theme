@@ -178,7 +178,7 @@ FocusScope {
                     }
                 }
 
-                Row {
+                /*Row {
                     id: buttons
                     anchors.horizontalCenter: parent.horizontalCenter
                     anchors.bottom: parent.bottom
@@ -201,7 +201,7 @@ FocusScope {
                             text: "FAVORITE GAMES"
                             font.pixelSize: parent.height * 0.4
                             font.family: fontLoaderDesc.name
-                            color: "white"
+                            color: cont.focus ? "white" : "grey"
                         }
                     }
 
@@ -221,7 +221,7 @@ FocusScope {
                             text: "CONTINUE PLAYING"
                             font.pixelSize: parent.height * 0.4
                             font.family: fontLoaderDesc.name
-                            color: "white"
+                            color: cont.focus ? "white" : "grey"
                         }
                     }
 
@@ -251,6 +251,110 @@ FocusScope {
                         }
                     }
 
+
+                    Keys.onPressed: {
+                        if (!event.isAutoRepeat && api.keys.isAccept(event)) {
+                            if (favo.focus) {
+                                collectionsVisible = false;
+                                collectionsFocused = false;
+                                gamesVisible = false
+                                gamesFocused = false
+                                proxyVisible = true;
+                                proxyFocused = true;
+                                gridView.model = favoritesProxyModel;
+                            } else if (cont.focus) {
+                                collectionsVisible = false;
+                                collectionsFocused = false;
+                                gamesVisible = false
+                                gamesFocused = false
+                                proxyVisible = true;
+                                proxyFocused = true;
+                                gridView.model = continuePlayingProxyModel;
+                            }
+                        }
+                    }
+                }*/
+
+                Row {
+                    id: buttons
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    anchors.bottom: parent.bottom
+                    spacing: parent.width * 0.02
+                    visible: collectionsVisible || gamesVisible
+
+                    Rectangle {
+                        id: favo
+                        width: parent.parent.width * 0.2
+                        height: parent.parent.width * 0.04
+                        radius: height * 0.2
+                        color: favo.focus ? "#FF4081" : "transparent"
+
+                        Behavior on color {
+                            ColorAnimation { duration: 200 }
+                        }
+
+                        Text {
+                            anchors.centerIn: parent
+                            text: "FAVORITE GAMES"
+                            font.pixelSize: parent.height * 0.4
+                            font.family: fontLoaderDesc.name
+                            color: favo.focus ? "white" : "grey"
+
+                            Behavior on color {
+                                ColorAnimation { duration: 200 }
+                            }
+                        }
+                    }
+
+                    Rectangle {
+                        id: cont
+                        width: parent.parent.width * 0.2
+                        height: parent.parent.width * 0.04
+                        radius: height * 0.2
+                        color: cont.focus ? "#FF4081" : "transparent"
+
+                        Behavior on color {
+                            ColorAnimation { duration: 200 }
+                        }
+
+                        Text {
+                            anchors.centerIn: parent
+                            text: "CONTINUE PLAYING"
+                            font.pixelSize: parent.height * 0.4
+                            font.family: fontLoaderDesc.name
+                            color: cont.focus ? "white" : "grey"
+
+                            Behavior on color {
+                                ColorAnimation { duration: 200 }
+                            }
+                        }
+                    }
+
+                    Keys.onRightPressed: {
+                        if (root.inButtons && favo.focus) {
+                            cont.forceActiveFocus();
+                            event.accepted = true;
+                        }
+                    }
+
+                    Keys.onLeftPressed: {
+                        if (root.inButtons && cont.focus) {
+                            favo.forceActiveFocus();
+                            event.accepted = true;
+                        }
+                    }
+
+                    Keys.onDownPressed: {
+                        if (root.inButtons) {
+                            if (root.lastFocusedView === "collections") {
+                                pathView.forceActiveFocus();
+                            } else if (root.lastFocusedView === "games") {
+                                pathViewGames.forceActiveFocus();
+                            }
+                            root.inButtons = false;
+                            event.accepted = true;
+                        }
+                    }
 
                     Keys.onPressed: {
                         if (!event.isAutoRepeat && api.keys.isAccept(event)) {
@@ -785,7 +889,7 @@ FocusScope {
 
                 focus: proxyFocused
 
-                Keys.onPressed: {
+                /*Keys.onPressed: {
                     if (!event.isAutoRepeat && api.keys.isAccept(event)) {
                         event.accepted = true;
                         var selectedGame = gridView.model.get(gridView.currentIndex);
@@ -819,6 +923,58 @@ FocusScope {
                         favo.forceActiveFocus();
                         root.inButtons = true;
                     } else if (!event.isAutoRepeat && api.keys.isDetails(event)) {
+                        favSound.play();
+                        var selectedGame = gridView.model.get(gridView.currentIndex);
+                        var collectionName = getNameCollecForGame(selectedGame);
+                        for (var i = 0; i < api.collections.count; ++i) {
+                            var collection = api.collections.get(i);
+                            if (collection.name === collectionName) {
+                                for (var j = 0; j < collection.games.count; ++j) {
+                                    var gamefound = collection.games.get(j);
+                                    if (gamefound.title === selectedGame.title) {
+                                        gamefound.favorite = !gamefound.favorite;
+                                        updateContinuePlayingModel();
+                                        break;
+                                    }
+                                }
+                                break;
+                            }
+                        }
+                    }
+                }*/
+
+                Keys.onPressed: {
+                    if (!event.isAutoRepeat && api.keys.isAccept(event)) {
+                        event.accepted = true;
+                        var selectedGame = gridView.model.get(gridView.currentIndex);
+                        var collectionName = getNameCollecForGame(selectedGame);
+                        for (var i = 0; i < api.collections.count; ++i) {
+                            var collection = api.collections.get(i);
+                            if (collection.name === collectionName) {
+                                for (var j = 0; j < collection.games.count; ++j) {
+                                    var game = collection.games.get(j);
+                                    if (game.title === selectedGame.title) {
+                                        game.launch();
+                                        break;
+                                    }
+                                }
+                                break;
+                            }
+                        }
+                    } else if (!event.isAutoRepeat && api.keys.isCancel(event)) {
+                        event.accepted = true;
+                        proxyVisible = false;
+                        proxyFocused = false;
+                        if (root.lastFocusedView === "collections") {
+                            collectionsVisible = true;
+                            collectionsFocused = true;
+                        } else if (root.lastFocusedView === "games") {
+                            gamesVisible = true;
+                            gamesFocused = true;
+                        }
+                        favo.forceActiveFocus();
+                        root.inButtons = true;
+                    } else if (!event.isAutoRepeat && api.keys.isDetails(event) && gridView.model === favoritesProxyModel) {
                         favSound.play();
                         var selectedGame = gridView.model.get(gridView.currentIndex);
                         var collectionName = getNameCollecForGame(selectedGame);
