@@ -8,7 +8,6 @@ import QtQuick.Window 2.15
 FocusScope {
     id: root
     focus: true
-
     property var game: null
     property string currentCollectionName: ""
     property string currentShortName: ""
@@ -31,6 +30,7 @@ FocusScope {
         autoPlay: true
         volume: 1.0
     }
+
 
     ShaderEffect {
         anchors.fill: parent
