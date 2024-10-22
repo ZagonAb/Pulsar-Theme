@@ -43,7 +43,6 @@ FocusScope {
         source: "assets/audio/inicio2.wav"
         onPlayingChanged: {
             if (playing) {
-                // Duración fija (por ejemplo, 3000 ms - 1s = 2000 ms)
                 iniciarMusicaTimer.interval = 1000
                 iniciarMusicaTimer.start()
             }
@@ -122,6 +121,7 @@ FocusScope {
         id: allItem
         width: parent.width
         height: parent.height
+        opacity: 0
 
         FontLoader {
             id: fontLoaderName
@@ -1051,6 +1051,11 @@ FocusScope {
                     gridView.currentIndex = 0;
                 }
             }
+        }
+        NumberAnimation on opacity {
+            duration: 1500 // Duración de la animación en milisegundos
+            to: 1 // Opacidad final (visible)
+            running: true // Inicia la animación al cargar la escena
         }
     }
 
