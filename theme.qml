@@ -36,6 +36,17 @@ FocusScope {
         source: "assets/audio/movimiento.wav"
         volume: 1.0
     }
+    SoundEffect {
+        id: enterSound
+        source: "assets/audio/enter.wav"
+        volume: 1.0
+    }
+
+    SoundEffect {
+        id: backSound
+        source: "assets/audio/back.wav"
+        volume: 1.0
+    }
 
 
     SoundEffect {
@@ -408,6 +419,7 @@ FocusScope {
                                 proxyVisible = true;
                                 proxyFocused = true;
                                 gridView.model = favoritesProxyModel;
+                                enterSound.play();
                             } else if (cont.focus) {
                                 collectionsVisible = false;
                                 collectionsFocused = false;
@@ -416,6 +428,7 @@ FocusScope {
                                 proxyVisible = true;
                                 proxyFocused = true;
                                 gridView.model = continuePlayingProxyModel;
+                                enterSound.play();
                             }
                         }
                     }
@@ -562,6 +575,7 @@ FocusScope {
                                 gamesVisible = true
                                 gamesFocused = true
                                 pathViewGames.forceActiveFocus()
+                                movSound.play();
                             }
                         }
                     }
@@ -776,6 +790,7 @@ FocusScope {
                                 collectionsVisible = true
                                 collectionsFocused = true
                                 pathView.forceActiveFocus()
+                                movSound.play();
                             }
                         } else if (!event.isAutoRepeat && api.keys.isAccept(event)) {
                             event.accepted = true;
@@ -1011,6 +1026,7 @@ FocusScope {
                         }
                     } else if (!event.isAutoRepeat && api.keys.isCancel(event)) {
                         event.accepted = true;
+                        backSound.play();
                         proxyVisible = false;
                         proxyFocused = false;
                         if (root.lastFocusedView === "collections") {
