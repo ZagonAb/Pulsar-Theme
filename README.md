@@ -1,6 +1,6 @@
 # Pulsar-Theme for pegasus frontend
 - Un tema simple con un pequeño sombreador de estrellas en movimiento.
-
+- Aun en desarrollo pero funcional.!
 #Screenshots
 ![screen1](https://github.com/user-attachments/assets/a7bbe6d0-acc8-4d95-8552-16a82ed1b65a)
 
@@ -11,13 +11,13 @@
 ![screen4](https://github.com/user-attachments/assets/8b299ec0-8916-4641-b1b0-35ef0f8a2913)
 
 # Características
-- Coleccion como "favorite" y "continue playing" agregadas en la interfaz.
+- Colección como "favorite" y "continue playing" agregadas en la interfaz.
 - Breve descripción de las consolas.
 - Opción para agregar y eliminar juegos como favoritos.
 - Diseñado para una colección de juegos no tan extensa.
 
 # Actualizaciones futuras
-- Coleccion allgames y opción de búsqueda por letra.
+- Colección allgames y opción de búsqueda por letra.
 
 ## Instalación
 
