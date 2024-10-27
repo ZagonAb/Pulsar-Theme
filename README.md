@@ -2,7 +2,7 @@
 - Un tema simple con un pequeño sombreador de estrellas en movimiento.
 - Aun en desarrollo pero funcional.!
 
-#Screenshots
+# Screenshots
 ![screen1](https://github.com/user-attachments/assets/a7bbe6d0-acc8-4d95-8552-16a82ed1b65a)
 
 ![screen2](https://github.com/user-attachments/assets/e002567c-a764-4b33-be11-dca18b661a8c)
