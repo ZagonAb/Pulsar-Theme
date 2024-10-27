@@ -23,35 +23,15 @@ FocusScope {
     property string gameDescription: ""
     property string lastFocusedView: "collections"
 
-    /*Audio {
-        id: backgroundMusic
-        source: "assets/audio/background5.wav"
-        loops: Audio.Infinite
-        autoPlay: true
-        volume: 1.0
-    }*/
-
     SoundEffect {
         id: movSound
-        source: "assets/audio/movimiento.wav"
+        source: "assets/audio/mov.wav"
         volume: 1.0
     }
-    SoundEffect {
-        id: enterSound
-        source: "assets/audio/enter.wav"
-        volume: 1.0
-    }
-
-    SoundEffect {
-        id: backSound
-        source: "assets/audio/back.wav"
-        volume: 1.0
-    }
-
 
     SoundEffect {
         id: inicioSound
-        source: "assets/audio/inicio2.wav"
+        source: "assets/audio/inicio.wav"
         onPlayingChanged: {
             if (playing) {
                 iniciarMusicaTimer.interval = 1000
@@ -60,25 +40,23 @@ FocusScope {
         }
     }
 
-    // Temporizador para iniciar la música
     Timer {
         id: iniciarMusicaTimer
-        interval: 0  // Se ajustará dinámicamente
+        interval: 0
         repeat: false
         running: false
-        onTriggered: musica.play()  // Inicia la música cuando el temporizador se activa
+        onTriggered: musica.play()
     }
 
-    // Música de fondo
     Audio {
         id: musica
         source: "assets/audio/background.mp3"
         autoPlay: false
-        onStopped: play()  // Reproduce en bucle
+        onStopped: play()
     }
 
     Component.onCompleted: {
-        inicioSound.play()  // Inicia el sonido de inicio
+        inicioSound.play()
     }
 
     ShaderEffect {
@@ -228,103 +206,6 @@ FocusScope {
                     }
                 }
 
-                /*Row {
-                    id: buttons
-                    anchors.horizontalCenter: parent.horizontalCenter
-                    anchors.bottom: parent.bottom
-                    spacing: parent.width * 0.02
-                    visible: collectionsVisible || gamesVisible
-
-                    Rectangle {
-                        id: favo
-                        width: parent.parent.width * 0.2
-                        height: parent.parent.width * 0.04
-                        radius: height * 0.2
-                        color: favo.focus ? "#FF4081" : "transparent"
-
-                        Behavior on color {
-                            ColorAnimation { duration: 200 }
-                        }
-
-                        Text {
-                            anchors.centerIn: parent
-                            text: "FAVORITE GAMES"
-                            font.pixelSize: parent.height * 0.4
-                            font.family: fontLoaderDesc.name
-                            color: cont.focus ? "white" : "grey"
-                        }
-                    }
-
-                    Rectangle {
-                        id: cont
-                        width: parent.parent.width * 0.2
-                        height: parent.parent.width * 0.04
-                        radius: height * 0.2
-                        color: cont.focus ? "#FF4081" : "transparent"
-
-                        Behavior on color {
-                            ColorAnimation { duration: 200 }
-                        }
-
-                        Text {
-                            anchors.centerIn: parent
-                            text: "CONTINUE PLAYING"
-                            font.pixelSize: parent.height * 0.4
-                            font.family: fontLoaderDesc.name
-                            color: cont.focus ? "white" : "grey"
-                        }
-                    }
-
-                    Keys.onRightPressed: {
-                        if (root.inButtons && favo.focus) {
-                            cont.forceActiveFocus();
-                            event.accepted = true;
-                        }
-                    }
-
-                    Keys.onLeftPressed: {
-                        if (root.inButtons && cont.focus) {
-                            favo.forceActiveFocus();
-                            event.accepted = true;
-                        }
-                    }
-
-                    Keys.onDownPressed: {
-                        if (root.inButtons) {
-                            if (root.lastFocusedView === "collections") {
-                                pathView.forceActiveFocus();
-                            } else if (root.lastFocusedView === "games") {
-                                pathViewGames.forceActiveFocus();
-                            }
-                            root.inButtons = false;
-                            event.accepted = true;
-                        }
-                    }
-
-
-                    Keys.onPressed: {
-                        if (!event.isAutoRepeat && api.keys.isAccept(event)) {
-                            if (favo.focus) {
-                                collectionsVisible = false;
-                                collectionsFocused = false;
-                                gamesVisible = false
-                                gamesFocused = false
-                                proxyVisible = true;
-                                proxyFocused = true;
-                                gridView.model = favoritesProxyModel;
-                            } else if (cont.focus) {
-                                collectionsVisible = false;
-                                collectionsFocused = false;
-                                gamesVisible = false
-                                gamesFocused = false
-                                proxyVisible = true;
-                                proxyFocused = true;
-                                gridView.model = continuePlayingProxyModel;
-                            }
-                        }
-                    }
-                }*/
-
                 Row {
                     id: buttons
                     anchors.horizontalCenter: parent.horizontalCenter
@@ -419,7 +300,7 @@ FocusScope {
                                 proxyVisible = true;
                                 proxyFocused = true;
                                 gridView.model = favoritesProxyModel;
-                                enterSound.play();
+                                movSound.play();
                             } else if (cont.focus) {
                                 collectionsVisible = false;
                                 collectionsFocused = false;
@@ -428,7 +309,7 @@ FocusScope {
                                 proxyVisible = true;
                                 proxyFocused = true;
                                 gridView.model = continuePlayingProxyModel;
-                                enterSound.play();
+                                movSound.play();
                             }
                         }
                     }
@@ -501,7 +382,6 @@ FocusScope {
                             width: parent.width * 0.2
                             height: parent.height * 0.1
                             anchors.bottom: parent.bottom
-                            //anchors.left: parent.left
                             anchors.horizontalCenter: parent.horizontalCenter
                             color: "white"
                             radius: 5
@@ -702,7 +582,6 @@ FocusScope {
                             width: parent.width * 0.3
                             height: parent.height * 0.1
                             anchors.bottom: parent.bottom
-                            //anchors.left: parent.left
                             anchors.horizontalCenter: parent.horizontalCenter
                             color: "white"
                             radius: 5
@@ -726,7 +605,6 @@ FocusScope {
                             source: coverImage
                             color: "black"
                             opacity: selected && pathViewGames.focus ? 0 : 0.7
-
                             Behavior on opacity {
                                 NumberAnimation { duration: 200 }
                             }
@@ -760,8 +638,6 @@ FocusScope {
                     onCurrentIndexChanged: {
                         game = pathViewGames.model.get(currentIndex);
                         gameTitle = game ? game.title : "";
-
-                        // Recorta la descripción del juego a las primeras dos oraciones
                         if (game && game.description) {
                             var firstDotIndex = game.description.indexOf(".");
                             var secondDotIndex = game.description.indexOf(".", firstDotIndex + 1);
@@ -817,7 +693,6 @@ FocusScope {
                         }
                     }
 
-
                     Keys.onReleased: {
                         if (!root.inButtons) {
                             if (event.key === Qt.Key_Right) {
@@ -841,7 +716,7 @@ FocusScope {
                 }
             }
         }
-        // GridView
+
         Item {
             id: gridViewProxymodel
             width: parent.width * 0.90
@@ -871,6 +746,7 @@ FocusScope {
 
                     OpacityMask {
                         anchors.fill: parent
+
                         source: Image {
                             source: (gridView.model === favoritesProxyModel) ? model.assets.boxFront : model.assets.screenshot
                             fillMode: Image.PreserveAspectCrop
@@ -952,60 +828,6 @@ FocusScope {
 
                 focus: proxyFocused
 
-                /*Keys.onPressed: {
-                    if (!event.isAutoRepeat && api.keys.isAccept(event)) {
-                        event.accepted = true;
-                        var selectedGame = gridView.model.get(gridView.currentIndex);
-                        var collectionName = getNameCollecForGame(selectedGame);
-                        for (var i = 0; i < api.collections.count; ++i) {
-                            var collection = api.collections.get(i);
-                            if (collection.name === collectionName) {
-                                for (var j = 0; j < collection.games.count; ++j) {
-                                    var game = collection.games.get(j);
-                                    if (game.title === selectedGame.title) {
-                                        game.launch();
-                                        break;
-                                    }
-                                }
-                                break;
-                            }
-                        }
-                    } else if (!event.isAutoRepeat && api.keys.isCancel(event)) {
-                        event.accepted = true;
-                        proxyVisible = false;
-                        proxyFocused = false;
-
-                        if (root.lastFocusedView === "collections") {
-                            collectionsVisible = true;
-                            collectionsFocused = true;
-                        } else if (root.lastFocusedView === "games") {
-                            gamesVisible = true;
-                            gamesFocused = true;
-                        }
-
-                        favo.forceActiveFocus();
-                        root.inButtons = true;
-                    } else if (!event.isAutoRepeat && api.keys.isDetails(event)) {
-                        favSound.play();
-                        var selectedGame = gridView.model.get(gridView.currentIndex);
-                        var collectionName = getNameCollecForGame(selectedGame);
-                        for (var i = 0; i < api.collections.count; ++i) {
-                            var collection = api.collections.get(i);
-                            if (collection.name === collectionName) {
-                                for (var j = 0; j < collection.games.count; ++j) {
-                                    var gamefound = collection.games.get(j);
-                                    if (gamefound.title === selectedGame.title) {
-                                        gamefound.favorite = !gamefound.favorite;
-                                        updateContinuePlayingModel();
-                                        break;
-                                    }
-                                }
-                                break;
-                            }
-                        }
-                    }
-                }*/
-
                 Keys.onPressed: {
                     if (!event.isAutoRepeat && api.keys.isAccept(event)) {
                         event.accepted = true;
@@ -1026,7 +848,7 @@ FocusScope {
                         }
                     } else if (!event.isAutoRepeat && api.keys.isCancel(event)) {
                         event.accepted = true;
-                        backSound.play();
+                        movSound.play();
                         proxyVisible = false;
                         proxyFocused = false;
                         if (root.lastFocusedView === "collections") {
@@ -1068,10 +890,11 @@ FocusScope {
                 }
             }
         }
+
         NumberAnimation on opacity {
-            duration: 1500 // Duración de la animación en milisegundos
-            to: 1 // Opacidad final (visible)
-            running: true // Inicia la animación al cargar la escena
+            duration: 1500
+            to: 1
+            running: true
         }
     }
 
