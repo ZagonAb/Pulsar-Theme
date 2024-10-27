@@ -12,7 +12,7 @@
 ![screen4](https://github.com/user-attachments/assets/8b299ec0-8916-4641-b1b0-35ef0f8a2913)
 
 # Características
-- Colección como "favorite" y "continue playing" agregadas en la interfaz.
+- Colecciones como "favorite" y "continue playing" agregadas en la interfaz.
 - Breve descripción de las consolas.
 - Opción para agregar y eliminar juegos como favoritos.
 - Diseñado para una colección de juegos no tan extensa.
